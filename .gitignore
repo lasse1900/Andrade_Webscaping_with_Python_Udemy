@@ -2,6 +2,10 @@
 *.xml
 *.png
 *.pyc
+*.txt
 pabot_results
 node_modules
 Results 
+/movies
+/movies3
+/movies4
