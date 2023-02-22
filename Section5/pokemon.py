@@ -1,3 +1,4 @@
+# https://www.zenrows.com/blog/headless-browser-python#what-is-the-best-headless-browser
 from selenium import webdriver 
 from selenium.webdriver.common.by import By 
  

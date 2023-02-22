@@ -3,6 +3,7 @@
 *.png
 *.pyc
 *.txt
+*.csv
 pabot_results
 node_modules
 Results 
